@@ -1,0 +1,49 @@
+{
+    "token": "OTc0MDk1Mjk0ODk3NzE3MjU4.GKUTCb.bqGHfmk-8AHIGiYAtF-EKHWJN4aiHWt883goac",
+    "channelid": "828683771826012160",
+    "ownerid": "974095294897717258",
+    "owosystemstatus": "1",
+    "captchasecurity": "1",
+    "gelişmişkoruma": "1",
+    "wprefix": "1",
+    "systems": {
+        "whunt": "1",
+        "wbattle": "1",
+        "whug": "1",
+        "wkiss": "1",
+        "wcf": "0",
+        "wslot": "0",
+        "wpraycurse": "1"
+    },
+    "securitytime": "3",
+    "owomessage": "986756277659107348",
+    "owomessagestatus": "1",
+    "owomessagetype": "çek",
+    "owosecurity": "0",
+    "autosell": "0",
+    "autogive": "1",
+    "owostop": "0",
+    "otogönderim": "1",
+    "coinflip_para_miktarlari": [
+        "10000",
+        "20000",
+        "30000",
+        "40000",
+        "50000"
+    ],
+    "slot_para_miktarlari": [
+        "10000",
+        "20000",
+        "30000",
+        "40000",
+        "50000"
+    ],
+    "hunt": 4235,
+    "battle": 2623,
+    "kiss": 2537,
+    "hug": 1979,
+    "cf": 785,
+    "slot": 2,
+    "pray": 259,
+    "curse": 0
+}
